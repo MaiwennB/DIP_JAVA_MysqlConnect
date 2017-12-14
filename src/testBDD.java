@@ -14,6 +14,7 @@ public class testBDD {
 	private String loginBdd;
 	private String pwdBdd;
 	private Connection connection;
+	
 	//REQUETTES
 	PreparedStatement instructionInsert;
 	PreparedStatement instructionUnom;
